@@ -1,0 +1,20 @@
+E:\KLS 12\ukk\kalkulator sindy\ukk_kalkulator\ukk_kalkulator\bin\Debug\ukk_kalkulator.exe.config
+E:\KLS 12\ukk\kalkulator sindy\ukk_kalkulator\ukk_kalkulator\bin\Debug\ukk_kalkulator.exe
+E:\KLS 12\ukk\kalkulator sindy\ukk_kalkulator\ukk_kalkulator\bin\Debug\ukk_kalkulator.pdb
+E:\KLS 12\ukk\kalkulator sindy\ukk_kalkulator\ukk_kalkulator\obj\Debug\ukk_kalkulator.csprojAssemblyReference.cache
+E:\KLS 12\ukk\kalkulator sindy\ukk_kalkulator\ukk_kalkulator\obj\Debug\ukk_kalkulator.Form1.resources
+E:\KLS 12\ukk\kalkulator sindy\ukk_kalkulator\ukk_kalkulator\obj\Debug\ukk_kalkulator.Properties.Resources.resources
+E:\KLS 12\ukk\kalkulator sindy\ukk_kalkulator\ukk_kalkulator\obj\Debug\ukk_kalkulator.csproj.GenerateResource.cache
+E:\KLS 12\ukk\kalkulator sindy\ukk_kalkulator\ukk_kalkulator\obj\Debug\ukk_kalkulator.csproj.CoreCompileInputs.cache
+E:\KLS 12\ukk\kalkulator sindy\ukk_kalkulator\ukk_kalkulator\obj\Debug\ukk_kalkulator.exe
+E:\KLS 12\ukk\kalkulator sindy\ukk_kalkulator\ukk_kalkulator\obj\Debug\ukk_kalkulator.pdb
+D:\UKK\kalkulatorr\kalkulatorr\ukk_kalkulator\ukk_kalkulator\bin\Debug\ukk_kalkulator.exe.config
+D:\UKK\kalkulatorr\kalkulatorr\ukk_kalkulator\ukk_kalkulator\bin\Debug\ukk_kalkulator.exe
+D:\UKK\kalkulatorr\kalkulatorr\ukk_kalkulator\ukk_kalkulator\bin\Debug\ukk_kalkulator.pdb
+D:\UKK\kalkulatorr\kalkulatorr\ukk_kalkulator\ukk_kalkulator\obj\Debug\ukk_kalkulator.csprojAssemblyReference.cache
+D:\UKK\kalkulatorr\kalkulatorr\ukk_kalkulator\ukk_kalkulator\obj\Debug\ukk_kalkulator.Form1.resources
+D:\UKK\kalkulatorr\kalkulatorr\ukk_kalkulator\ukk_kalkulator\obj\Debug\ukk_kalkulator.Properties.Resources.resources
+D:\UKK\kalkulatorr\kalkulatorr\ukk_kalkulator\ukk_kalkulator\obj\Debug\ukk_kalkulator.csproj.GenerateResource.cache
+D:\UKK\kalkulatorr\kalkulatorr\ukk_kalkulator\ukk_kalkulator\obj\Debug\ukk_kalkulator.csproj.CoreCompileInputs.cache
+D:\UKK\kalkulatorr\kalkulatorr\ukk_kalkulator\ukk_kalkulator\obj\Debug\ukk_kalkulator.exe
+D:\UKK\kalkulatorr\kalkulatorr\ukk_kalkulator\ukk_kalkulator\obj\Debug\ukk_kalkulator.pdb
